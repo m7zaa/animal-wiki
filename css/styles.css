@@ -11,3 +11,13 @@ h1  {
 .card-body {
   margin-top:: auto;
 }
+
+#secret-sloth {
+  display: none;
+}
+#secret-lemur {
+  display: none;
+}
+#secret-simpona{
+  display: none;
+}
